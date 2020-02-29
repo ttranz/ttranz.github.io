@@ -387,7 +387,6 @@ p {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
   -webkit-transition: 0.9s;
   -o-transition: 0.9s;
   transition: 0.9s;
@@ -441,10 +440,7 @@ p {
   -o-transform: scale(1);
   transform: scale(1);
 }
-.fh5co-grid .fh5co-col-1 .fh5co-item a:hover .fh5co-item-text-wrap,
-.fh5co-grid .fh5co-col-2 .fh5co-item a:hover .fh5co-item-text-wrap {
-  background: rgba(0, 0, 0, 0.2);
-}
+
 .fh5co-grid .fh5co-col-1 .fh5co-item a.image-popup:hover h2,
 .fh5co-grid .fh5co-col-2 .fh5co-item a.image-popup:hover h2 {
   opacity: 1;
